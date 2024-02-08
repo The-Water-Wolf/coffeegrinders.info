@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://coffeeroastersco.com.au/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://coffeeroastersco.com.au/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://coffeeroastersco.com.au/collections/dancing-bean-single-origins.atom"/>
+  <title>Coffee Roasters Collective</title>
+  <updated>2021-06-29T13:39:33+10:00</updated>
+  <author>
+    <name>Coffee Roasters Collective</name>
+  </author>
+  <entry>
+    <id>https://coffeeroastersco.com.au/products/6872199921830</id>
+    <published>2021-06-29T13:39:33+10:00</published>
+    <updated>2021-06-29T13:39:33+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://coffeeroastersco.com.au/products/colombian-la-herrera-500g"/>
+    <title>Colombian - Popayan  - 500g</title>
+    <s:type>Coffee</s:type>
+    <s:vendor>Coffee Roasters Collective</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0578/1467/9718/products/dark_grey_2_e8ed589a-4997-44f1-8e70-e887bb4c79ef.jpg?v=1624937974"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coffee Roasters Collective<br>
+        <strong>Type: </strong>Coffee<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="white-space: pre-wrap;" class="">Sweet and deep chocolatey flavors are very prominent, with some fruity notes that can touch on caramel, apple and red fruits like berries. Think smooth body and a rich finish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dancing Bean Single Origins</s:tag>
+    <s:variant>
+      <id>https://coffeeroastersco.com.au/products/6872199921830</id>
+      <title>Whole Beans</title>
+      <s:price currency="AUD">20.00</s:price>
+      <s:sku>SQ8645078</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://coffeeroastersco.com.au/products/6872199921830</id>
+      <title>Espresso</title>
+      <s:price currency="AUD">20.00</s:price>
+      <s:sku>SQ7704222</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://coffeeroastersco.com.au/products/6872199921830</id>
+      <title>Pour Over</title>
+      <s:price currency="AUD">20.00</s:price>
+      <s:sku>SQ1501536</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://coffeeroastersco.com.au/products/6872199921830</id>
+      <title>Plunger</title>
+      <s:price currency="AUD">20.00</s:price>
+      <s:sku>SQ0300335</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://coffeeroastersco.com.au/products/6872199528614</id>
+    <published>2021-06-29T13:39:19+10:00</published>
+    <updated>2021-06-29T13:39:19+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://coffeeroastersco.com.au/products/colombian-la-herrera-1kg"/>
+    <title>Colombian - Popayan  - 1kg</title>
+    <s:type>Coffee</s:type>
+    <s:vendor>Coffee Roasters Collective</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0578/1467/9718/products/dark_grey_2_54fddd9d-5b46-43f1-b55f-1ef8c2077708.jpg?v=1624937960"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coffee Roasters Collective<br>
+        <strong>Type: </strong>Coffee<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="white-space: pre-wrap;" class="">Sweet and deep chocolatey flavors are very prominent, with some fruity notes that can touch on caramel, apple and red fruits like berries. Think smooth body and a rich finish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dancing Bean Single Origins</s:tag>
+    <s:variant>
+      <id>https://coffeeroastersco.com.au/products/6872199528614</id>
+      <title>Whole Beans</title>
+      <s:price currency="AUD">38.00</s:price>
+      <s:sku>SQ7082373</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://coffeeroastersco.com.au/products/6872199528614</id>
+      <title>Espresso</title>
+      <s:price currency="AUD">38.00</s:price>
+      <s:sku>SQ8614066</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://coffeeroastersco.com.au/products/6872199528614</id>
+      <title>Pour Over</title>
+      <s:price currency="AUD">38.00</s:price>
+      <s:sku>SQ0488428</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://coffeeroastersco.com.au/products/6872199528614</id>
+      <title>Plunger</title>
+      <s:price currency="AUD">38.00</s:price>
+      <s:sku>SQ0452386</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://coffeeroastersco.com.au/products/6872198512806</id>
+    <published>2021-06-29T13:38:49+10:00</published>
+    <updated>2021-06-29T13:38:49+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://coffeeroastersco.com.au/products/decaf-mexican-hg-swiss-water-method-500g"/>
+    <title>Decaf-Mexican HG Swiss Water Method 500g</title>
+    <s:type>Coffee</s:type>
+    <s:vendor>Coffee Roasters Collective</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0578/1467/9718/products/dark_grey_2_81654b82-40a6-4ea1-a304-ef26d6bbfd87.jpg?v=1624937930"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coffee Roasters Collective<br>
+        <strong>Type: </strong>Coffee<br>
+        <strong>Price: </strong>
+            24.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="white-space: pre-wrap;" class="">We use only water, temperature, and time to gently remove caffeine, while preserving all the coffee’s original characteristics. Our seal means you’re getting the very best cup of decaf, free of chemicals or residual processing flavors. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dancing Bean Single Origins</s:tag>
+    <s:variant>
+      <id>https://coffeeroastersco.com.au/products/6872198512806</id>
+      <title>Whole Beans</title>
+      <s:price currency="AUD">24.50</s:price>
+      <s:sku>SQ8450850</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://coffeeroastersco.com.au/products/6872198512806</id>
+      <title>Espresso</title>
+      <s:price currency="AUD">24.50</s:price>
+      <s:sku>SQ8855120</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://coffeeroastersco.com.au/products/6872198512806</id>
+      <title>Pour Over</title>
+      <s:price currency="AUD">24.50</s:price>
+      <s:sku>SQ5138641</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://coffeeroastersco.com.au/products/6872198512806</id>
+      <title>Plunger</title>
+      <s:price currency="AUD">24.50</s:price>
+      <s:sku>SQ7805207</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+</feed>

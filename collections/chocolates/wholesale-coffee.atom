@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://coffeeroastersco.com.au/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://coffeeroastersco.com.au/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://coffeeroastersco.com.au/collections/chocolates.atom"/>
+  <title>Coffee Roasters Collective</title>
+  <updated>2021-06-29T13:38:59+10:00</updated>
+  <author>
+    <name>Coffee Roasters Collective</name>
+  </author>
+  <entry>
+    <id>https://coffeeroastersco.com.au/products/6872198807718</id>
+    <published>2021-06-29T13:38:59+10:00</published>
+    <updated>2021-06-29T13:38:59+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://coffeeroastersco.com.au/products/dlux-drinking-chocolate-21-percent-1kg-bag"/>
+    <title>DLUX Drinking Chocolate 21% 1kg Bag</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Coffee Roasters Collective</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0578/1467/9718/products/DLUX-Drinking-Chocolate-21.jpg?v=1624937939"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coffee Roasters Collective<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="white-space:pre-wrap;"><strong>DLUX Drinking Chocolate 21%</strong></h2><p class="" style="white-space:pre-wrap;">1kg bag<br>21% cocoa</p><p class="" style="white-space:pre-wrap;">A perfet blend of 4 signature cocoas,  combined with cocoa solids  and natural vanilla. DLUX Drinking Chocolate 21% is perfect for  customers that are wanting a smooth well rounded hot chocolate.</p><p class="" style="white-space:pre-wrap;">Ideal for drinking and topping cuppaccinos. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wholesale Coffee</s:tag>
+    <s:variant>
+      <id>https://coffeeroastersco.com.au/products/6872198807718</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">14.00</s:price>
+      <s:sku>SQ2175156</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://coffeeroastersco.com.au/products/6872198774950</id>
+    <published>2021-06-29T13:38:57+10:00</published>
+    <updated>2021-06-29T13:38:57+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://coffeeroastersco.com.au/products/dlux-drinking-chocolate-27-percent-1kg-bag"/>
+    <title>DLUX Drinking Chocolate 27% 1kg Bag</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Coffee Roasters Collective</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0578/1467/9718/products/DLUX-Drinking-Chocolate-27.jpg?v=1624937938"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coffee Roasters Collective<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            16.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="white-space:pre-wrap;"><strong>DLUX Drinking Chocolate 27%</strong></h2><p class="" style="white-space:pre-wrap;">1kg bag<br>27% cocoa</p><p class="" style="white-space:pre-wrap;">A perfect blend of 4 signature cocoas,  combined with cocoa solids  and natural vanilla. DLUX Drinking Chocolate 27% is perfect for  customers that are wanting a smooth well rounded hot chocolate.</p><p class="" style="white-space:pre-wrap;">Ideal for drinking and topping cappuccinos. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wholesale Coffee</s:tag>
+    <s:variant>
+      <id>https://coffeeroastersco.com.au/products/6872198774950</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">16.75</s:price>
+      <s:sku>SQ8463516</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+</feed>
